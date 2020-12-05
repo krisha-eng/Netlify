@@ -1,1 +1,1 @@
-/*  https://services.odata.org/V2/Northwind/Northwind.svc/
+/api/*  https://services.odata.org/V2/Northwind/Northwind.svc/:splat  200
