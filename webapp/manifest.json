@@ -19,7 +19,7 @@
 		"ach": "ach",
         "dataSources": {
 			"NORTHWIND": {
-				"uri": "/Northwind/V2/Northwind/Northwind.svc/",
+				"uri": "/api",
 				"type": "OData",
 				"settings": {
 					"localUri": "localService/metadata.xml"

@@ -18,7 +18,7 @@ server:
     configuration:
       baseUri: https://sapui5.hana.ondemand.com/resources/
   - name: ui5-middleware-simpleproxy
-    mountPath: /Northwind/V2/Northwind/Northwind.svc/
+    mountPath: /api
     afterMiddleware: compression
     configuration:
       baseUri: https://pensive-poitras-23fc77.netlify.app/api
