@@ -21,4 +21,4 @@ server:
     mountPath: /Northwind/V2/Northwind/Northwind.svc/
     afterMiddleware: compression
     configuration:
-      baseUri: https://services.odata.org/V2/Northwind/Northwind.svc/
+      baseUri: https://pensive-poitras-23fc77.netlify.app/api
